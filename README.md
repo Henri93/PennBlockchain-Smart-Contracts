@@ -1,6 +1,6 @@
 <h2 style="align:center;" >Penn BlockChain Smart Contracts </h2>
 
-<a href="https://github.com/Henri93/PennBlockchain-Smart-Contracts/tree/master/hw0">ERC20 Token: Creating ERC20 Token</a>
+<a href="https://github.com/Henri93/PennBlockchain-Smart-Contracts/tree/master/ERC20%20Token">ERC20 Token: Creating ERC20 Token</a>
 
 <a href="https://github.com/Henri93/PennBlockchain-Smart-Contracts/tree/master/hw01">Token Exchange: Creating ERC20 Token Exchange</a>
 
